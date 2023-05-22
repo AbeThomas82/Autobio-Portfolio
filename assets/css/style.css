@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Lato Extended", "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.headline h1 {
+    display:inline-block;
+    font-size:30px;
+}
+
+.headline nav {
+    padding-top: 5px;
+    margin-right: 20px;
+    float: right;
+    font-family: "Lato Extended", "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+}
+
+.headline nav ul {
+    list-style-type: none;
+}
+
+.headline nav ul li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.sidebar h1 {
+    display: inline-block;
+    font-size: 30px;
+}
+
+.sidebar main {
+    padding-bottom: 0px;
+    margin-right: 0px;
+    float: right;
+    font-family: "Lato Extended", "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+}
+
+.sidebar main ul {
+    list-style-type: none;
+}
+
+.sidebar main ul li {
+    display: inline-block;
+    padding: 10px;
+    margin-left: 300px;
+}

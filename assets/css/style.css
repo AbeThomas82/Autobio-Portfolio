@@ -28,6 +28,10 @@ body {
     margin-left: 20px;
 }
 
+.sidebar{
+    flex-wrap: wrap;
+}
+
 .sidebar h1 {
     display: inline-block;
     font-size: 30px;

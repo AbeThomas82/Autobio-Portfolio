@@ -6,7 +6,12 @@ body {
     font-family: "Lato Extended", "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+.headline{
+    background-color:paleturquoise
+}
+
 .headline h1 {
+    color:mediumblue;
     display:inline-block;
     font-size:30px;
 }
@@ -29,27 +34,33 @@ body {
 }
 
 .sidebar{
-    flex-wrap: wrap;
+    width:100%;
+    height:100%;
+    display:wrap;
 }
 
 .sidebar h1 {
-    display: inline-block;
+    color:mediumblue;
+    width:30%;
+    height:100%;
     font-size: 30px;
+    float:left;
 }
 
-.sidebar main {
+.sidebar section {
     padding-bottom: 0px;
-    margin-right: 0px;
-    float: right;
+    margin-block-start: 0px;
+    width:70%;
+    float: left;
     font-family: "Lato Extended", "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 15px;
 }
 
-.sidebar main ul {
+.sidebar section ul {
     list-style-type: none;
 }
 
-.sidebar main ul li {
+.sidebar section ul li {
     display: inline-block;
     padding: 10px;
     margin-left: 300px;

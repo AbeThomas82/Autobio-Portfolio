@@ -11,9 +11,9 @@ body {
 }
 
 .headline h1 {
-    color:mediumblue;
+    color:royalblue;
     display:inline-block;
-    font-size:30px;
+    font-size:35px;
 }
 
 .headline nav {
@@ -37,9 +37,23 @@ body {
     height: 200px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/space.jpg");
-    background-size: cover;
-    background-position: center;
+    position:relative;
+    top: 0;
+    left: 0;
+}
+
+.image1{
+    position: relative;
+    top: 0;
+    left:0;
+    border: 1px solid #000000;
+}
+
+.image2{
+    position: absolute;
+    top:30px;
+    left:30px;
+    border: 1px solid #000000;
 }
 
 .sidebar{
@@ -49,12 +63,13 @@ body {
     height:100%;
 }
 
-.sidebar h1 {
+.sidebar h2 {
     color:mediumblue;
     border-color: azure;
+    border-style:solid dashed dashed solid;
     width:30%;
     height:100%;
-    font-size: 30px;
+    font-size: 25px;
     float:left;
 }
 
@@ -85,11 +100,13 @@ body {
     height:100%;
 }
 
-.sidebar2 h1 {
+.sidebar2 h2 {
     color:mediumblue;
+    border-color: azure;
+    border-style:solid dashed dashed solid;
     width:30%;
     height:100%;
-    font-size: 30px;
+    font-size: 25px;
     float:left;
 }
 
@@ -112,12 +129,23 @@ body {
     display: flex;
     flex-wrap: wrap;
 }
-
-.sidebar2 section ul li figure:hover{
+/*I wanted to specofocally target my images for wrapping and stacking*/
+.sidebar2 section ul li figure{
     background-color: beige;
     display: flex;
     flex-wrap: wrap;
     float: left;
+}
+/*I wanted to target all image files to expand when the mouse cursor interacted with them*/
+img {
+    width: 300px;
+    height: auto;
+    -webkit-transition: 0.3s ease-in-out;
+    transition: 0.3s ease-in-out;
+}
+/*Hover code*/
+img:hover {
+    width: 350px;
 }
 
 .sidebar3{
@@ -127,11 +155,13 @@ body {
     flex-wrap: wrap;
 }
 
-.sidebar3 h1 {
+.sidebar3 h2 {
     color:mediumblue;
+    border-color: azure;
+    border-style:solid dashed dashed solid;
     width:30%;
     height:100%;
-    font-size: 30px;
+    font-size: 25px;
     float:left;
 }
 
@@ -162,11 +192,13 @@ body {
     flex-wrap: wrap;
 }
 
-.sidebar4 h1 {
+.sidebar4 h2 {
     color:mediumblue;
+    border-color: azure;
+    border-style:solid dashed dashed solid;
     width:30%;
     height:100%;
-    font-size: 30px;
+    font-size: 25px;
     float:left;
 }
 

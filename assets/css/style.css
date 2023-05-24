@@ -129,12 +129,28 @@ body {
     flex-wrap: wrap;
 }
 /*I wanted to specofocally target my images for wrapping and stacking*/
+    
+
 .sidebar2 section ul li figure{
     background-color: beige;
     display: flex;
     flex-wrap: wrap;
     float: left;
 }
+
+@media screen and (max-width:992px) {
+    .sidebar2 section ul li figure{
+        width: 50%;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .sidebar2 section ul li figure{
+        width: 100%;
+    }
+}
+
+
 /*I wanted to target all image files to expand when the mouse cursor interacted with them*/
 img {
     width: 300px;

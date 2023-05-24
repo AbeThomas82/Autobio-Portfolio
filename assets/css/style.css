@@ -11,6 +11,7 @@ body {
 }
 
 .headline h1 {
+    /*Name color changes*/
     color:royalblue;
     display:inline-block;
     font-size:35px;
@@ -29,6 +30,7 @@ body {
 }
 
 .headline nav ul li {
+    /*Sets orientation of list*/
     display: inline-block;
     margin-left: 20px;
 }
@@ -120,6 +122,7 @@ body {
 }
 
 .sidebar2 section ul li {
+/*Padding separates lists*/
     padding: 10px;
     color:white;
     display: flex;
@@ -171,6 +174,7 @@ img:hover {
 }
 
 .sidebar3 section ul {
+    /*Takes away bulleting*/
     list-style-type: none;
 }
 
@@ -212,6 +216,7 @@ img:hover {
 }
 
 .sidebar4 section ul li {
+    /*Boxes can wrap when viewpoint narrows*/
     padding: 10px;
     color:white;
     display: flex;

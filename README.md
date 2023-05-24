@@ -30,9 +30,13 @@ In the 'Contact' section of the page, there are hotlinks for the four respective
 ## Credits
 
 Myself, Sherwin Abraham
+
 Classmates, Advisors, and Instructors
+
 Free clip art and websites accessed via search engines
+
 Github: https://github.com/AbeThomas82/Autobio-Portfolio
+
 GitPages: https://abethomas82.github.io/Autobio-Portfolio/
 
 ## License

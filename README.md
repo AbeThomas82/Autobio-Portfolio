@@ -20,9 +20,30 @@ The webpage from the challenge allows the user to get a better understanding of 
 
 There are ID links in the header that moves to corresponding sections of the page when clicked. In the 'Employment History' section, can hover the mouse pointer over the pictures, which result in highlighted expansion.
 
-In the 'Contact' section of the page, there are hotlinks for the four respective methods of communication.  
+In the 'Contact' section of the page, there are hotlinks for the four respective methods of communication.
 
-## Screenshots
+## Sources
+
+Images:
+
+"blue.webp"<https://www.pixelstalk.net/light-blue-wallpaper-backgrounds/>
+
+"cab-driver.jpg">https://www.habbaspilaw.com/wp-content/uploads/2015/11/bigstock-Portrait-Taxi-Driver-Smile-Car-71892247.jpg>
+
+"chick-photographer.jpg"<https://www.goodfreephotos.com/albums/people/photographer-sitting-on-the-road-taking-a-photo-at-night.jpg>
+
+"grocery-store-worker.jpg"<https://www.hoffmannworkcomp.com/wp-content/uploads/2017/03/grocery-store-worker-injuries.jpg>
+
+"headergreen.jpg"<https://blog.entheosweb.com/wp-content/uploads/2012/01/green_header_s.jpg>
+
+"michael-scott-1.jpg"<https://pebble.media/wp-content/uploads/2019/08/michael-scott-1.jpg>
+
+"Restaurant-server.jpg"<https://www.employmentalert.com/blog/wp-content/uploads/2017/06/Restaurant-server.jpg>
+
+"space.jpg"<http://www.technocrazed.com/wp-content/uploads/2015/12/HD-Space-Wallpaper-For-Background-3.jpg>
+
+## Screenshots (Locally Sourced)
+
 ![alt text](https://github.com/AbeThomas82/Autobio-Portfolio/tree/main/assets/images/Screenshot1.jpg?raw=true)
 ![alt text](https://github.com/AbeThomas82/Autobio-Portfolio/tree/main/assets/images/Screenshot2.jpg?raw=true)
 ![alt text](https://github.com/AbeThomas82/Autobio-Portfolio/tree/main/assets/images/Screenshot3.jpg?raw=true)

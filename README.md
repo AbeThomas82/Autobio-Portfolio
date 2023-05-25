@@ -42,6 +42,25 @@ Images:
 
 "space.jpg"<http://www.technocrazed.com/wp-content/uploads/2015/12/HD-Space-Wallpaper-For-Background-3.jpg>
 
+Linked addresses:
+
+- Steak 48 Steakhouse
+
+- Whole Foods Market
+
+- Uber Rideshare
+
+- Digital Camera World
+
+- PopTox
+
+- Gmail
+
+- MySpace
+
+- Craigslist
+
+
 ## Screenshots (Locally Sourced)
 
 ![alt text](https://github.com/AbeThomas82/Autobio-Portfolio/tree/main/assets/images/Screenshot1.jpg?raw=true)

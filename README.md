@@ -26,21 +26,21 @@ In the 'Contact' section of the page, there are hotlinks for the four respective
 
 Images:
 
-"blue.webp"<https://www.pixelstalk.net/light-blue-wallpaper-backgrounds/>
+"blue.webp" <https://www.pixelstalk.net/light-blue-wallpaper-backgrounds/>
 
-"cab-driver.jpg">https://www.habbaspilaw.com/wp-content/uploads/2015/11/bigstock-Portrait-Taxi-Driver-Smile-Car-71892247.jpg>
+"cab-driver.jpg" <https://www.habbaspilaw.com/wp-content/uploads/2015/11/bigstock-Portrait-Taxi-Driver-Smile-Car-71892247.jpg>
 
-"chick-photographer.jpg"<https://www.goodfreephotos.com/albums/people/photographer-sitting-on-the-road-taking-a-photo-at-night.jpg>
+"chick-photographer.jpg" <https://www.goodfreephotos.com/albums/people/photographer-sitting-on-the-road-taking-a-photo-at-night.jpg>
 
-"grocery-store-worker.jpg"<https://www.hoffmannworkcomp.com/wp-content/uploads/2017/03/grocery-store-worker-injuries.jpg>
+"grocery-store-worker.jpg" <https://www.hoffmannworkcomp.com/wp-content/uploads/2017/03/grocery-store-worker-injuries.jpg>
 
-"headergreen.jpg"<https://blog.entheosweb.com/wp-content/uploads/2012/01/green_header_s.jpg>
+"headergreen.jpg" <https://blog.entheosweb.com/wp-content/uploads/2012/01/green_header_s.jpg>
 
-"michael-scott-1.jpg"<https://pebble.media/wp-content/uploads/2019/08/michael-scott-1.jpg>
+"michael-scott-1.jpg" <https://pebble.media/wp-content/uploads/2019/08/michael-scott-1.jpg>
 
-"Restaurant-server.jpg"<https://www.employmentalert.com/blog/wp-content/uploads/2017/06/Restaurant-server.jpg>
+"Restaurant-server.jpg" <https://www.employmentalert.com/blog/wp-content/uploads/2017/06/Restaurant-server.jpg>
 
-"space.jpg"<http://www.technocrazed.com/wp-content/uploads/2015/12/HD-Space-Wallpaper-For-Background-3.jpg>
+"space.jpg" <http://www.technocrazed.com/wp-content/uploads/2015/12/HD-Space-Wallpaper-For-Background-3.jpg>
 
 Linked addresses:
 
